@@ -2,7 +2,7 @@
 
 $DB_SERVER = 'localhost';
 $DB_USER = 'root';
-$DB_PASSWORD = 'l3tm31n';
+$DB_PASSWORD = 'l3tm31n.hackrocks';
 $DB = 'sitioV2';
 
 
